@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AQM1602Y.PrjPcb]
+   Generated File[AQM1602Y.TXT]
+   Generated File[AQM1602Y-RectHoles.TXT]
+   Generated File[AQM1602Y.LDP]
+   Generated File[AQM1602Y.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:04:00 On 2022/05/15
